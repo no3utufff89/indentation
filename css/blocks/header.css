@@ -1,0 +1,10 @@
+.header {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.page__title {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 72px;
+}
