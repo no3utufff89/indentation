@@ -7,9 +7,13 @@
     border-radius: 10px;
     padding-top: 25px;
     padding-bottom: 25px;
-    margin: 0 -30px;
     padding-left: 45px;
     padding-right: 45px;
+}
+
+.content_bottom {
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .content__title {

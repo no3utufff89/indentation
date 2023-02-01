@@ -81,9 +81,15 @@ p {
 }
 
 .container {
-    max-width: 1140px;
+    max-width: 1200px;
     padding: 0 30px;
     margin: 0 auto;
+}
+
+.container_s {
+    max-width: 1140px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .hidden {
